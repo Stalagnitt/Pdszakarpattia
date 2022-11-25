@@ -120,17 +120,17 @@ ul, ol, li{
     animation: anim_slides 18s linear infinite 0s;
 }
 .body_slides li:nth-child(1){
-	background-image: url(/img/Fon.jpg);
+	background-image: url(../img/Fon.jpg);
 }
 .body_slides li:nth-child(2){
 	-webkit-animation-delay: 6.0s;
 	-moz-animation-delay: 6.0s;
-	background-image: url(/img/30.jpg); 
+	background-image: url(../img/30.jpg); 
 }
 .body_slides li:nth-child(3){
 	-webkit-animation-delay: 12.0s;
 	-moz-animation-delay: 12.0s;
-	background-image: url(/img/28.jpg); 
+	background-image: url(../img/28.jpg); 
 }
 
 @-webkit-keyframes anim_slides {
